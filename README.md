@@ -1,0 +1,2 @@
+# DICTIONARY-APP
+THIS IS CREATED WITH HELP OF https://dictionaryapi.dev/ API
